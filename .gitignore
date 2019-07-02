@@ -1,7 +1,4 @@
-/.gradle/
-/.dbeaver-data-sources.xml
 /.settings/
-
 /target/
 /.project
 /.classpath
